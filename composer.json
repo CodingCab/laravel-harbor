@@ -1,13 +1,13 @@
 {
-    "name": "mehrancodes/laravel-harbor",
+    "name": "CodingCab/laravel-harbor",
     "description": "A CLI tool to Quickly create On-Demand preview environment for your apps.",
     "keywords": ["php", "laravel-harbor", "laravel-zero", "console", "cli", "continuous-integration", "ci", "laravel-forge", "provision", "staging", "preview", "pull-requests"],
     "homepage": "https://laravel-harbor.com",
     "type": "project",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/mehrancodes/laravel-harbor/issues",
-        "source": "https://github.com/mehrancodes/laravel-harbor"
+        "issues": "https://github.com/CodingCab/laravel-harbor/issues",
+        "source": "https://github.com/CodingCab/laravel-harbor"
     },
     "authors": [
         {
